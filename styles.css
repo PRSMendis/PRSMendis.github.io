@@ -99,6 +99,12 @@ h3 {
   padding-bottom: 20px;
 }
 
+.credit-container {
+  background-color: #66BFBF;
+  /* color: #11999E; */
+  margin-bottom: 0;
+}
+
 .skill-row {
   text-align: left;
   line-height: 2;
@@ -125,7 +131,7 @@ h3 {
   margin-right: 30px
 }
 
-.chillies {
+.megaphone {
   width: 25%;
   float: right;
   margin-left: 30px
@@ -184,6 +190,10 @@ h3 {
 
 .footer-link {
 padding: 10px 20px ;
+font-family: Montserrat ;
+text-decoration: none;
+}
+.credit-link {
 font-family: Montserrat ;
 text-decoration: none;
 }
